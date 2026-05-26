@@ -1,0 +1,8 @@
+Python
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+XGBoost
+Google-colab
