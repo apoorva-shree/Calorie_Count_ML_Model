@@ -1,4 +1,4 @@
-# Calorie Burn Prediction using Machine Learning
+# Calorie Burnt Prediction using Machine Learning
 
 This project predicts the number of calories burned during exercise using Machine Learning techniques. The model is trained on exercise and calorie-related data such as age, gender, body measurements, exercise duration, heart rate, and body temperature.
 
